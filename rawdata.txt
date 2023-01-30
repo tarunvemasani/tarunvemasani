@@ -1,0 +1,209 @@
+Introduction
+..........................
+Even though the era of the 5G network has not yet fully arrived, 
+the limitations of 5G technology mean we must begin with researching 
+6G networks now.But what is a 6G network? And how will it differ from 5G networks? 
+So far, the 6G network has no standard functions or specifications, 
+just many possibilities.Some people contend that 6G networks should 
+be more than just a faster version of a 5G network, 
+but rather the improvement of the 5G technology in all aspects.
+The sixth generation (6G) networks are expected to 
+provide a fully connected world with terrestrial wireless, 
+satellite communications integration, higher coverage, less energy consumption, 
+comprehensive spectral, and cost-effectiveness with improved security.
+The design concept of 6G networks is to leverage artificial intelligence (Ai) 
+to promote the intelligent and agile development of network services.
+While the conventional applications such as multimedia streaming will 
+remain, literature envisions new application domains for 6G systems 
+such as multi-sensory extended reality (XR) applications, Connected Robotics
+and Autonomous Systems (CRAS), and wireless Brain-Computer
+Interactions (BCI). Different requirements for these applications 
+and their corresponding use cases set different trends
+and research directions towards 6G. 
+
+6G will be an autonomous intelligent ecosystem that connects 
+everything through multidimensional networks that provide services
+in the ground, air, space and underwater aiming to provide quality 
+of not just service but life. The distributed heterogeneous networks 
+require ubiquitous AI services to ensure the fulfilment of 6G goals. 
+Intelligent wireless communications, closed-loop optimisation of networks, 
+big data analytics for 6G emphasise the use of AI in diverse aspects of 
+6G networks. Hence, AI becomes an integral part of the network, which plays 
+a crucial role. 
+
+The security systems designed for 5G using the concepts of SDN
+and NFV should be further improved to cater to the security
+demands in 6G. The end-to-end automation of future
+networks demands proactive threats discovery, intelligent 
+mitigation techniques, and self-sustaining networks in 6G. 
+Hence, the end-to-end security design leveraging AI techniques is
+essential to autonomously identify and respond to potential
+threats based on network anomalies rather than cryptographic
+methods. 
+
+
+Challenges
+..............................
+Network softwarization technologies in 5G such as Software-Defined Networking,
+Network Function Virtualisation (NFV), Multi-access Edge Computing (MEC), and
+network slicing are still applicable for 6G systems thus, their security issues 
+would remain in 6G. Due to the massively distributed nature of 6G systems, 
+MEC in 6G is subjected to physical security threats, Distributed Denial of Service,
+man-in-the-middle attacks. Potential attacks for network slicing are DoS attacks, 
+information theft via compromised slices. Attacks on network softwarization 
+technologies fail the 6G network from achieving the promised dynamically and
+full automation.
+
+
+With Further enhanced Mobile Broadband
+(FeMBB), extreme data rates will pose challenges regarding
+traffic processing for security such as attack detection, AI/ML
+pipelines, traffic analysis and pervasive encryption. That issue
+can be alleviated with distributed security solutions since
+traffic should be processed locally and on-the-fly in different
+segments of the network, ranging from the edge to the core
+service cloud. At this point, DLT will be instrumental with
+transparency, security and redundancy attributes. Ultra massive
+Machine Type Communication (umMTC) will serve critical
+use-cases which impose much more stringent security requirements compared to 5G.
+
+6G applications also have specific vulnerabilities. The connected robotics 
+and autonomous systems typically rely on the AI and the VLC technology where 
+malicious behaviour, encryption and data transmission can be problematic. 
+The multi-sensory XR applications use the molecular communication technology, 
+the THz technology and the quantum communication technology, which means they 
+are susceptible to access control attacks, malicious behavior, and data transmission 
+exposure. Wireless brain-computer interactions use the same techniques as the 
+multi-sensory XR application, but have their own unique security and privacy issues.
+
+
+
+Better Approaches
+................................
+Malicious parties have a better potential to attack a distributed network with more vulnerable devices, each having
+mesh connectivity, thereby increasing the threat surface. The
+definition of sub-networks requires a change in the security
+strategy. Security provision for the massive number of devices within each sub-network by the wide area network is
+far from practical. A hierarchical security mechanism that
+distinguishes the sub-network level communication security
+and sub-network to wide area network security would be a
+better approach in 6G. 6G networks will coexist with frameworks 
+like Zero-touch network and Service Management (ZSM) architecture to
+enable short time-to-market of services, low operational cost,
+and reduced human error. Full automation equipped with self-learning
+causes the attacks to propagate in the closed-loops.
+Data privacy protection is challenging due to the vital need
+for automation with lesser human intervention in zero-touch
+networks. Implementing automated machine ethics is also an
+open question in fully automated 6G networks.
+
+
+
+
+
+
+
+
+Need for autonomous
+...............................
+
+Leveraging AI advances is a must in achieving networks self organisation.
+Through learning and prediction, AI will be an efficient solution for achieving the convergence in managing
+and allocating 6G network resources for various services [2].
+Softwarization [38], cloudization [39], virtualization [40], and
+slicing [41] which are main techniques for 5G network orchestration, will be also expected to be important characteristics of
+6G autonomous network, AI enabled however. 
+
+When it comes to optimising resources of multi-level and
+multi-dimensional networks with massiveness of connections,
+AI does not just outperform legacy techniques, it however
+emerges as a main management technique for conventional design
+methods which are built based on mathematical and statistical models.
+And traditional methods based solutions are not always optimal as their corresponding decisions are taking only
+according to current input.
+
+
+Rending to their high ability in learning, predicting patterns,
+and taking decisions accordingly, AI techniques, on the other
+hand, lead to enhancing wireless network performance in
+situations where legacy techniques fail to.
+
+Searching in a
+very large angular space is essential for achieving high beam 
+forming gain and thus, reducing the initial access performance.
+The process of aligning beams between two communicating
+entities leads to communication and computational overhead.
+The good news, however, is that ML and DL-based initial
+access methods have the potentials in reducing such overhead [46], [47]. Moreover, the immense power of quantum
+computers in speeding up ML algorithms can be investigated
+not only for beam alignments, but also for some other services
+such as users tracking [28].
+
+clustering and allocating power for mobile users in
+mmWave-NOMA demand high computational power, as they
+need to be updated in real time. Emerging AI techniques can
+overcome some of these limitations
+
+
+
+
+The advent and advancements of technologies may also pave
+the way to generate more powerful attackers who can create
+sophisticated attacks on different parts of 6G architecture.
+
+
+
+
+
+
+
+
+
+
+https://arxiv.org/pdf/2106.06949.pdf
+http://jultika.oulu.fi/files/nbnfi-fe2021102051685.pdf
+https://digitalcollection.zhaw.ch/bitstream/11475/22968/3/2021_Porambage_6G_security_challenges_and_potential_solutions_IEEE.pdf
+https://www.researchgate.net/publication/350824205_6G_Security_Challenges_and_Potential_Solutions
+https://www.sciencedirect.com/science/article/pii/S2352864820302431
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8914636/
+https://www.google.com/imgres?imgurl=https%3A%2F%2Fd13i5xhouzkrd.cloudfront.net%2F464fa887-737f-4d07-837c-0be4ae2bbd30%2Fpreviews%2Foutput-1.png&imgrefurl=https%3A%2F%2Ftypeset.io%2Fformats%2Fieee%2Fdefault-template-for-ieee-journals%2F7571580208800f8572b783b996ff7646&tbnid=Nmf4bHV-9d9PqM&vet=10CBQQxiAoA2oXChMIoIvonbzN_AIVAAAAAB0AAAAAEAk..i&docid=ZD8fx0hzwM7yRM&w=850&h=1100&itg=1&q=technical%20writing%20in%20ieee%20format&ved=0CBQQxiAoA2oXChMIoIvonbzN_AIVAAAAAB0AAAAAEAk
+
+https://typeset.io/formats/ieee/default-template-for-ieee-journals/7571580208800f8572b783b996ff7646
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
